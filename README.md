@@ -37,7 +37,7 @@ The code includes the evaluation of the SVR model using R-squared (R2) and root 
 
 ## Author
 
-- [Your Name](https://github.com/bilaloezdemir)
+- [Bilal Ozdemir](https://github.com/bilaloezdemir)
 
 ## License
 
